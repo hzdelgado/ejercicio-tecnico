@@ -1,0 +1,3 @@
+[submodule "angular-delfosti"]
+	path = angular-delfosti
+	url = https://github.com/hzdelgado/delfosti-angular
