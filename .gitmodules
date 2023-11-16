@@ -1,3 +1,6 @@
 [submodule "angular-delfosti"]
 	path = angular-delfosti
 	url = https://github.com/hzdelgado/delfosti-angular
+[submodule "react-native-delfosti"]
+	path = react-native-delfosti
+	url = https://github.com/hzdelgado/delfosti-react-native
